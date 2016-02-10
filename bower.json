@@ -1,0 +1,26 @@
+{
+  "name": "angularApp",
+  "authors": [
+    "hoppities <danielc.hopkins@gmail.com>"
+  ],
+  "description": "Simple Angular app with json api",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-animate": "~1.4.8",
+    "bootstrap-css-only": "~3.3.5",
+    "ngSweetAlert": "angular-sweetalert#~1.1.0",
+    "moment": "~2.10.6",
+    "restangular": "~1.5.1",
+    "sweetalert": "~1.1.3"
+  }
+}
